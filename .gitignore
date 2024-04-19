@@ -4,5 +4,6 @@ datasets/*
 !datasets/rgb_data_old_validation
 trained_models/*
 !trained_models/mobilenetv2_w4a4_model.pth
-# finn_build/
-# onnx_models/
+brevitas-cnn-train.ipynb
+!onnx_models/
+!finn_build/

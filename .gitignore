@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+datasets/
+trained_models/*
+!trained_models/mobilenetv2_w4a4_model.pth
+finn_build/
+onnx_models/

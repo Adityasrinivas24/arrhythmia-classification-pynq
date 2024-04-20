@@ -3,7 +3,10 @@ datasets/*
 !datasets/rgb_data_old
 !datasets/rgb_data_old_validation
 trained_models/*
-!trained_models/mobilenetv2_w4a4_model.pth
+!trained_models/ecgnet1_w4a4_model.pth
+# !trained_models/resnet_w4a4_model.pth
+# !trained_models/resnet_w8a8_model.pth
 brevitas-cnn-train.ipynb
+multiple-cnns-train.ipynb
 !onnx_models/
 !finn_build/

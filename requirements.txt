@@ -1,0 +1,9 @@
+matplotlib == 3.5.3
+numpy == 1.26.2
+torch == 2.2.2+cu121
+torchvision == 0.17.2+cu121
+scikit-learn == 1.4.2
+brevitas == 0.10.2
+netron == 7.6.0
+PIL == 10.2.0
+seaborn == 0.13.2

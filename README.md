@@ -1,4 +1,4 @@
-# Low Precision Neural Network for Arrhythmia Classificiation on FPGA
+# Low Precision Neural Network for Arrhythmia detection on FPGA
 
 ## Contents
 

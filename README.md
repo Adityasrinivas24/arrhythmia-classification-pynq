@@ -1,4 +1,4 @@
-# ECGNet: Low Precision Neural Net for ECG Classificiation on FPGA
+# Low Precision Neural Network for Arrhythmia Classificiation on FPGA
 
 ## Contents
 

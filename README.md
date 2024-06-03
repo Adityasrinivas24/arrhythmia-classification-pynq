@@ -1,4 +1,4 @@
-# Low Precision Neural Network for Arrhythmia detection on FPGA
+# FPGA-based Low Precision Neural Network for Arrhythmia detection
 
 ## Contents
 
@@ -11,7 +11,7 @@
 
 
 ## Introduction 
-The goal of this project is to deploy accurate, unbiased neural networks, which can be used in hospitals to detect arrhythmia at early stages, with processing on low-power, cheap and edge hardware to preserve privacy of patients.
+This project is aimed at deploying accurate, unbiased neural networks, which can be used in hospitals to detect arrhythmia at early stages, with processing on low-power, cheap and edge hardware to preserve privacy of patients.
 
 **Neural Net Architecture**
 
